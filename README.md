@@ -10,4 +10,4 @@
 ------
 ### System Analysis and Design
 ------
-#### 6. Calculate Parking fee
+#### 6. Design database
