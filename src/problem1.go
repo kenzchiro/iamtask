@@ -15,6 +15,7 @@ for l < r {
    if word[l] != word[r]{
      return false
    }
+//move position
 l++
 r--
 }
