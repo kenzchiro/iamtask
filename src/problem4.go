@@ -9,6 +9,7 @@ if N==1{
 	return 1
 }
 
+//func Pow(base,exponent)
 exponent := N
 res:= 1  
 for exponent != 0 {  
